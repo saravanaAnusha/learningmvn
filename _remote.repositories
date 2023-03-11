@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 09 22:59:13 EST 2023
+oauth2-server-2.2.4.jar>=
+oauth2-server-2.2.4.pom>=
